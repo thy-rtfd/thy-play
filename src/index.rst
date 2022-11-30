@@ -1,3 +1,5 @@
+:doc:`1play <1play/index>`
+
 :doc:`Python <thy_python:index>`
 
 :doc:`Azure <thy_azure:index>`
